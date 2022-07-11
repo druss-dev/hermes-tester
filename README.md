@@ -1,2 +1,2 @@
-# hermes-tester-
+# hermes-tester
 Stress test hermes client
